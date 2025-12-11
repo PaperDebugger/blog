@@ -50,13 +50,13 @@ Your browser does not support the video tag.
 &lt;p&gt;&lt;strong&gt;fix&lt;/strong&gt;: Minor Fixes &lt;a href="https://github.com/PaperDebugger/overleaf/pull/161"&gt;@Junyi-99 #161&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.3 Prompt Library</title><link>/blog/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (Paper Debugger)</author><guid>/blog/posts/1.3/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94"&gt;@imwithye #94&lt;/a&gt; &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97"&gt;#97&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt actions in the InputArea &lt;a href="https://github.com/PaperDebugger/overleaf/pull/95"&gt;@imwithye #95&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; model selection in chat &lt;a href="https://github.com/PaperDebugger/overleaf/pull/92"&gt;@Bcpeh #92&lt;/a&gt;&lt;/p&gt;
-&lt;img src="https://www.paperdebugger.com/blog/posts/1.3/image.png" alt="image" style="width: 50%" /&gt;
+&lt;img src="posts/1.3/image.png" alt="image" style="width: 50%" /&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;change:&lt;/strong&gt; new logo &lt;a href="https://github.com/PaperDebugger/overleaf/pull/102"&gt;@imwithye #102&lt;/a&gt;&lt;/p&gt;
-&lt;img src="https://www.paperdebugger.com/blog/posts/1.3/logo.png" alt="image" style="width: 50%" /&gt;
+&lt;img src="posts/1.3/logo.png" alt="image" style="width: 50%" /&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; user customized prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/108"&gt;@Lilliansiyin #108&lt;/a&gt;&lt;/p&gt;
-&lt;img src="https://www.paperdebugger.com/blog/posts/1.3/prompt-library.png" alt="image" style="width: 50%" /&gt;
+&lt;img src="posts/1.3/prompt-library.png" alt="image" style="width: 50%" /&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; auto sync if project is outdated &lt;a href="https://github.com/PaperDebugger/overleaf/pull/101"&gt;@imwithye #101&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; settings now synced with cloud &lt;a href="https://github.com/PaperDebugger/overleaf/pull/110"&gt;@Bcpeh #110&lt;/a&gt;&lt;/p&gt;
